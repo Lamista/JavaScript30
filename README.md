@@ -1,1 +1,1 @@
-# Flex Panels Image Gallery
+# 30 day JavaScript challenge https://javascript30.com/
