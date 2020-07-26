@@ -1,4 +1,4 @@
-# javascript30-02
+# CSS + JS Clock
 
 Me:
 Changed second-hand color to red and hour-hand length.
